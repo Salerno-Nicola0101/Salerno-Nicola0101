@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Salerno-Nicola0101
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning java
 - 📫 How to reach me nicola.salerno@ptpvenezia.edu.it
 
 <!---
